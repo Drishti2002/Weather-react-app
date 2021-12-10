@@ -1,0 +1,21 @@
+body{
+    /* background-image: url('https://svgshare.com/i/cfT.svg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: rgb(253, 245, 183); 
+    
+} 
+.card-img{
+    height:85vh;
+}
+.weather{
+    margin-left:10%;
+    margin-right:10%;
+    
+}
+.info{
+    max-width:90%;
+}
+.btn{
+    background-color: rgb(167, 160, 160);
+}
